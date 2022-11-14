@@ -14,7 +14,7 @@
 #canvas{
   width:308px;
   height:597px;
-  margin-top:50px;
+  margin: 50px auto;
 }
 
 .rv{
